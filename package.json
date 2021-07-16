@@ -1,0 +1,19 @@
+{
+  "name": "redox-assessment",
+  "version": "0.0.1",
+  "description": "A Node.js application to monitor pull request traffic for the Ramda organization",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luigi741/Redox-Assessment.git"
+  },
+  "author": "Luis Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luigi741/Redox-Assessment/issues"
+  },
+  "homepage": "https://github.com/luigi741/Redox-Assessment#readme"
+}
