@@ -1,24 +1,25 @@
 {
-  "name": "redox-assessment",
-  "version": "0.0.1",
-  "description": "A Node.js application to monitor pull request traffic for the Ramda organization",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/luigi741/Redox-Assessment.git"
-  },
-  "author": "Luis Castro",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/luigi741/Redox-Assessment/issues"
-  },
-  "homepage": "https://github.com/luigi741/Redox-Assessment#readme",
-  "dependencies": {
-    "dotenv": "^10.0.0",
-    "express": "^4.17.1",
-    "superagent": "^6.1.0"
-  }
+	"name": "redox-assessment",
+	"version": "0.0.1",
+	"description": "A Node.js application to monitor pull request traffic for the Ramda organization",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/luigi741/Redox-Assessment.git"
+	},
+	"author": "Luis Castro",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/luigi741/Redox-Assessment/issues"
+	},
+	"homepage": "https://github.com/luigi741/Redox-Assessment#readme",
+	"dependencies": {
+		"dotenv": "^10.0.0",
+		"express": "^4.17.1",
+		"superagent": "^6.1.0"
+	}
 }
